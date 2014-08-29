@@ -8,7 +8,7 @@ Your application will be evaluted against the following criteria
 
 | Criteria             | Overview                                                         | 
 | -------------------- |:----------------------------------------------------------------:| 
-| **Test Coverage**    | How well tested is your code, (** We will run your test suite** )|
+| **Test Coverage**    | How well tested is your code, ( **We will run your test suite** )|
 | **Code Quality**     | Code is well structured, readable and documented. Source is tidy |
 | **Configurability**  | Can aspects of your application be configured                    |
 | **Modularity**       | Can parts of your application be reused                          |
