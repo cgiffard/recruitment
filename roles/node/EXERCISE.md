@@ -13,8 +13,6 @@ Your application will be evaluted against the following criteria
 | **Configurability**  | Can aspects of your application be configured                    |
 | **Modularity**       | Can parts of your application be reused                          |
 | **Durability**       | How resilient is your application to known and unexpected errors |
- 
-**Candidates should focus their attention on the node.js component of this exercise as the client side aspects will not be heavily considered as part of our review.**
 
 ## Scenarios
 
