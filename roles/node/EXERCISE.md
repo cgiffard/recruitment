@@ -1,6 +1,6 @@
 # Candidate Exercise
  
-Using your knowlegde of Node.js and using the http://forecast.io API create an application which when accessed via a url can be used to retrieve a weather forecast.
+Using your knowlegde of node.js, client side frameworks and using the http://forecast.io API create an application which when accessed via a url can be used to retrieve a weather forecast.
 
 ## How will my submission be reviewed?
  
